@@ -5,10 +5,11 @@
 ### Create File
 
 - Create Folder
-    - build/
-    - src/
+  - build/
+  - src/
 - Create File
-    - .gitignore
-        - ignore `build`
+  - .gitignore
+    - ignore `build` `node_modules`
 - Create `package.json`
-    - `yarn init`
+  - `npm init --y`
+- Create `index.html` in src/
