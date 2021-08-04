@@ -13,3 +13,9 @@
 - Create `package.json`
   - `npm init --y`
 - Create `index.html` in src/
+
+### React Base
+
+- Add React
+ - `yarn add react react-dom`
+ - `yarn add -D typescript @types/react @types/react-dom`
