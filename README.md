@@ -17,5 +17,10 @@
 ### React Base
 
 - Add React
- - `yarn add react react-dom`
- - `yarn add -D typescript @types/react @types/react-dom`
+- `yarn add react react-dom`
+- `yarn add -D typescript @types/react @types/react-dom`
+
+### tsconfig.json
+
+- `nodenv local 14xx`
+- `tsc --init`
